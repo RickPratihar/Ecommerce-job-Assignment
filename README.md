@@ -12,7 +12,7 @@ This is a fully responsive e-commerce shopping website project built using React
 
 ## Demo
 
-You can see a live demo of this project [here](https://ecommerce-shop-react-app.vercel.app/).
+You can see a live demo of this project [here](https://ecommerce-job-assignment.vercel.app/).
 
 ## Features
 
@@ -45,4 +45,4 @@ Below are some screenshots of the website.
 
 
 Thank you! 🤍
-– Nigar Safarova
+– Rick Pratihar
